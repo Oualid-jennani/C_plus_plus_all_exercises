@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1585256303 source:c:\users\walid\desktop\tp12\vecteur3d.cpp
+	"vecteur3d.h"
+	<string.h>
+	<iostream>
+
+1585249324 c:\users\walid\desktop\tp12\vecteur3d.h
+	<iostream>
+
+1585256848 source:c:\users\walid\desktop\tp12\main.cpp
+	<iostream>
+	"vecteur3d.h"
+	"Pile.h"
+
+1585257358 c:\users\walid\desktop\tp12\pile.h
+	"vecteur3d.h"
+
+1585257802 source:c:\users\walid\desktop\tp12\pile.cpp
+	"Pile.h"
+	"vecteur3d.h"
+	<iostream>
+
+1586484854 source:c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp12\tp12\vecteur3d.cpp
+	"vecteur3d.h"
+	<string.h>
+	<iostream>
+
+1586486996 c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp12\tp12\vecteur3d.h
+	<iostream>
+
+1586487348 source:c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp12\tp12\pile.cpp
+	"Pile.h"
+	"vecteur3d.h"
+	<iostream>
+
+1586487090 c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp12\tp12\pile.h
+	"vecteur3d.h"
+
+1586487348 source:c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp12\tp12\main.cpp
+	<iostream>
+	"vecteur3d.h"
+	"Pile.h"
+

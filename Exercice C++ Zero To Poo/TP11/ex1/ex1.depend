@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1585805265 source:c:\users\walid\desktop\ex1\main.cpp
+	<iostream>
+	"PL.h"
+
+1585805265 c:\users\walid\desktop\ex1\pl.h
+	<iostream>
+
+1585806727 source:c:\users\walid\desktop\ex1\pl.cpp
+	"PL.h"
+	<iostream>
+
+1592968084 source:c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp11\ex1\main.cpp
+	<iostream>
+	"PL.h"
+
+1585805265 c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp11\ex1\pl.h
+	<iostream>
+
+1586468560 source:c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp11\ex1\pl.cpp
+	"PL.h"
+	<iostream>
+

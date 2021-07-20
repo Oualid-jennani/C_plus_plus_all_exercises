@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1593049779 source:c:\users\walid\desktop\exam-ex2\main.cpp
+	<iostream>
+	"Produit.h"
+	"Multimedia.h"
+
+1593049703 source:c:\users\walid\desktop\exam-ex2\produit.cpp
+	"Produit.h"
+	<iostream>
+
+1593048999 c:\users\walid\desktop\exam-ex2\produit.h
+
+1593048841 source:c:\users\walid\desktop\exam-ex2\multimedia.cpp
+	"Multimedia.h"
+	<iostream>
+
+1593048983 c:\users\walid\desktop\exam-ex2\multimedia.h
+	"Produit.h"
+

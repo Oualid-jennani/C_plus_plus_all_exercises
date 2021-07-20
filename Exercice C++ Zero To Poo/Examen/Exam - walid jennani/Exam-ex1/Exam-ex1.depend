@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1592977198 source:c:\users\walid\desktop\exam-ex1\point.cpp
+	<iostream>
+	"point.h"
+
+1592962486 c:\users\walid\desktop\exam-ex1\point.h
+	<iostream>
+
+1592978530 source:c:\users\walid\desktop\exam-ex1\table.cpp
+	"table.h"
+	<iostream>
+
+1593049883 c:\users\walid\desktop\exam-ex1\table.h
+	"point.h"
+
+1593037232 source:c:\users\walid\desktop\exam-ex1\main.cpp
+	<iostream>
+	"point.h"
+	"table.h"
+	"table_col.h"
+
+1593049794 source:c:\users\walid\desktop\exam-ex1\table_col.cpp
+	"table_col.h"
+	<iostream>
+
+1593037638 c:\users\walid\desktop\exam-ex1\table_col.h
+	"table.h"
+
+1592977198 source:c:\users\walid\desktop\exam - walid jennani\exam-ex1\point.cpp
+	<iostream>
+	"point.h"
+
+1592962486 c:\users\walid\desktop\exam - walid jennani\exam-ex1\point.h
+	<iostream>
+
+1592978530 source:c:\users\walid\desktop\exam - walid jennani\exam-ex1\table.cpp
+	"table.h"
+	<iostream>
+
+1593049883 c:\users\walid\desktop\exam - walid jennani\exam-ex1\table.h
+	"point.h"
+
+1593049794 source:c:\users\walid\desktop\exam - walid jennani\exam-ex1\table_col.cpp
+	"table_col.h"
+	<iostream>
+
+1593037638 c:\users\walid\desktop\exam - walid jennani\exam-ex1\table_col.h
+	"table.h"
+
+1593050106 source:c:\users\walid\desktop\exam - walid jennani\exam-ex1\main.cpp
+	<iostream>
+	"point.h"
+	"table.h"
+	"table_col.h"
+

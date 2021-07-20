@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581005194 source:c:\users\walid\desktop\structure-methode-2\main.cpp
+	<iostream>
+	<string.h>
+

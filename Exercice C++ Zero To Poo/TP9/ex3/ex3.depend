@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1583419080 source:c:\users\walid\desktop\ex3\pile.cpp
+	"Pile.h"
+	<iostream>
+
+1583418948 c:\users\walid\desktop\ex3\pile.h
+
+1583419265 source:c:\users\walid\desktop\ex3\main.cpp
+	"Pile.h"
+	<iostream>
+
+1583419080 source:c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp9\ex3\pile.cpp
+	"Pile.h"
+	<iostream>
+
+1585255511 c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp9\ex3\pile.h
+
+1584800921 source:c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp9\ex3\main.cpp
+	"Pile.h"
+	<iostream>
+

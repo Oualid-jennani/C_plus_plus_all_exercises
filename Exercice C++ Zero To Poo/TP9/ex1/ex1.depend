@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1582215964 source:c:\users\walid\desktop\ex1\personne.cpp
+	<iostream>
+	<string.h>
+	"personne.h"
+
+1582215837 c:\users\walid\desktop\ex1\personne.h
+
+1582804372 source:c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp9\ex1\personne.cpp
+	<iostream>
+	<string.h>
+	"personne.h"
+
+1582804343 c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp9\ex1\personne.h
+

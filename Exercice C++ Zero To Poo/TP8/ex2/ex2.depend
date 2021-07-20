@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1581610235 source:c:\users\walid\desktop\ex2\main.cpp
+	<iostream>
+	"compte.h"
+
+1582207155 c:\users\walid\desktop\ex2\compte.h
+
+1581610492 source:c:\users\walid\desktop\ex2\compte.cpp
+	<iostream>
+	"compte.h"
+
+1581618784 source:c:\users\walid\desktop\ex2\banque.cpp
+	"banque.h"
+	"compte.h"
+
+1581618966 c:\users\walid\desktop\ex2\banque.h
+	"compte.h"
+

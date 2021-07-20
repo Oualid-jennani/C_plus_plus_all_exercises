@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="banque.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="banque.h" open="1" top="0" tabpos="3">
+		<Cursor position="220" topLine="0" />
+	</File>
+	<File name="compte.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="318" topLine="0" />
+	</File>
+	<File name="compte.h" open="1" top="1" tabpos="5">
+		<Cursor position="249" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="345" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

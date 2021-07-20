@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1583425903 source:c:\users\walid\desktop\ex1\main.cpp
+	<iostream>
+	"Vecteur3d.h"
+
+1583426342 c:\users\walid\desktop\ex1\vecteur3d.h
+
+1583425825 source:c:\users\walid\desktop\ex1\vecteur3d.cpp
+	"Vecteur3d.h"
+	<iostream>
+
+1583425903 source:c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp10\ex1\main.cpp
+	<iostream>
+	"Vecteur3d.h"
+
+1584803023 c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp10\ex1\vecteur3d.h
+
+1583426308 source:c:\users\walid\desktop\cours de développeur\ehei\ehei poo et c++\exercice\tp10\ex1\vecteur3d.cpp
+	"Vecteur3d.h"
+	<iostream>
+

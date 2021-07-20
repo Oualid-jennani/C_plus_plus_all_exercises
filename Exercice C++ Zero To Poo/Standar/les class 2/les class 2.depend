@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1581605116 source:c:\users\walid\desktop\les class 2\point.cpp
+	<iostream>
+	"point.h"
+
+1581605105 c:\users\walid\desktop\les class 2\point.h
+
+1581605071 source:c:\users\walid\desktop\les class 2\main.cpp
+	<iostream>
+	"point.h"
+

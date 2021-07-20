@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1577285942 source:c:\users\walid\desktop\ex1\main.cpp
+	<iostream>
+
+1578486500 source:c:\users\walid\desktop\ehei\ehei poo et c++\exercice\tp4\ex1\main.cpp
+	<iostream>
+	<string.h>
+
